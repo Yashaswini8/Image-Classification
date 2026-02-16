@@ -26,7 +26,8 @@ For implementation and testing purposes, the dataset was loaded using PyTorch ut
 
 ## Neural Network Model
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/450a1337-b45c-42cc-bb6a-df30da49bce3" />
+<img width="1536" height="1024" alt="ChatGPT Image Feb 16, 2026, 11_26_37 AM" src="https://github.com/user-attachments/assets/40550306-d41a-4ad1-afeb-600f42856e1f" />
+
 
 
 ## DESIGN STEPS
@@ -124,17 +125,16 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### Confusion Matrix
 
-<img width="906" height="760" alt="image" src="https://github.com/user-attachments/assets/9780498a-39e1-4ece-9ea6-18634a02c5aa" />
+<img width="894" height="766" alt="image" src="https://github.com/user-attachments/assets/08bbeaeb-15ca-4f1c-87e5-846d592e2333" />
 
 
 ### Classification Report
 
-<img width="650" height="414" alt="image" src="https://github.com/user-attachments/assets/4b3d89eb-a1bd-4f0c-8b14-dfe9f3451030" />
-
+<img width="671" height="498" alt="image" src="https://github.com/user-attachments/assets/986dc34a-0fb5-4dd7-ae0c-6fe3171e7509" />
 
 ### New Sample Data Prediction
 
-<img width="838" height="743" alt="image" src="https://github.com/user-attachments/assets/2ffc0010-7366-4762-881b-25de7f818845" />
+<img width="675" height="678" alt="image" src="https://github.com/user-attachments/assets/3d34b98e-b29f-4f9d-a2f0-53ea35a4372a" />
 
 
 ## RESULT
