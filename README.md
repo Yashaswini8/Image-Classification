@@ -26,7 +26,6 @@ For implementation and testing purposes, the dataset was loaded using PyTorch ut
 
 ## Neural Network Model
 
-<img width="1536" height="1024" alt="ChatGPT Image Feb 16, 2026, 11_26_37 AM" src="https://github.com/user-attachments/assets/40550306-d41a-4ad1-afeb-600f42856e1f" />
 
 
 
