@@ -26,7 +26,7 @@ For implementation and testing purposes, the dataset was loaded using PyTorch ut
 
 ## Neural Network Model
 
-
+![CNN Architecture](https://github.com/Yashaswini8/Image-Classification/blob/1c6e341dcfce947709a300929cde2db00fac6a3c/CNN%20architecture%20diagram%20for%20classification%20(1).png)
 
 
 ## DESIGN STEPS
